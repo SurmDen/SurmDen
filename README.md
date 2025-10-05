@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Fullstack .NET Engineer | Архитектор Высоконагруженных Систем</h1>
+<h1 align="center">🚀 Fullstack .NET Engineer | Разработчик Высоконагруженных Систем</h1>
 <p align="center">
   <strong>C# • .NET Core • Microservices • Performance Optimization</strong>
 </p>
