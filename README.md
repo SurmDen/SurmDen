@@ -18,8 +18,7 @@
 ## 🛠 Технологический стек
 
 ### **Backend Навыки**
-`C#` `.NET Core/ASP.NET Core` `Entity Framework Core` `Microservices Architecture` `Clean Architecture` `Dependency Injection` `Middleware` `Background Services` `SignalR` `gRPC` `REST API` `OData`
-
+`C#` `.NET Core/ASP.NET Core` `Entity Framework Core` `Microservices Architecture` `Clean Architecture` `Dependency Injection` `Middleware` `Background Services` `SignalR` `gRPC` `REST API`
 ### **Frontend Навыки**
 `React` `JavaScript ES6+` `HTML5/CSS3` `SASS/SCSS`
 
@@ -27,10 +26,10 @@
 `PostgreSQL` `SQL Server` `Entity Framework Core` `LINQ` `Redis` `Dapper` `Database Sharding` `Query Optimization` `Index Tuning`
 
 ### **Архитектура & Паттерны**
-`Microservices` `Clean Architecture` `DDD` `CQRS` `Event Sourcing` `Repository Pattern` `Unit of Work` `Factory` `Strategy` `Observer` `Semaphore Patterns`
+`Microservices` `Clean Architecture` `DDD` `CQRS` `Event Sourcing` `Repository Pattern` `Unit of Work` `Factory` `Strategy` `Observer` 
 
 ### **Инфраструктура & DevOps**
-`Docker` `Logging`
+`Docker` `Logging` `Redis` `Apache Kafka` `Rabbit MQ`
 
 ### **Безопасность & Качество**
 `JWT Authentication` `OAuth 2.0` `Role-based Authorization` `Data Encryption` `XSS Protection` `CSRF Protection` `SQL Injection Prevention` `Unit Testing` `xUnit` `Moq` `Integration Testing`
